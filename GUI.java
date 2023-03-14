@@ -52,7 +52,7 @@ import java.awt.event.*;
 import builders.*;
 
 
-
+//COMENTARIU
 
 class GUI extends JFrame implements ActionListener{
 	
